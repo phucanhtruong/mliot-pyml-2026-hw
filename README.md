@@ -39,7 +39,7 @@ git pull upstream main
 Làm bài trong thư mục tuần tương ứng (`weekXX/`), rồi đẩy lên fork cá nhân:
 ```bash
 git add week01/
-git commit -m "week01: hoan thanh bai tap buoi 1"
+git commit -m "week01: hoan thanh bai tap buoi 2"
 git push origin main
 ```
 
